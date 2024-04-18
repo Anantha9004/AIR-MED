@@ -22,6 +22,10 @@ The core technology behind this project lies in Vertical Take-off and Landing (V
 - Anantha Krishnan K P
 - Deva Prakash
 
+## Link to product walkthrough
+
+https://youtu.be/89rsixqMnrU?si=mVRlEzO6q7zi-qd5
+
 ## How does it work?
 
 The video showcases the project's real-time operation. The VTOL aircraft, equipped with VTOL functionality, carries a medical module attached to its undercarriage. Upon receiving an emergency notification, sent by a victim bystander of an accident via a user-friendly website, the VTOL transports the medical module to the patient's location. The website prompts the victim bystander to enter basic patient condition data and the GPS location of the victim.
